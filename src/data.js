@@ -157,6 +157,12 @@ const site = [
 		img: "https://github.com/finn-01/site-img/blob/main/random.png?raw=true",
 		url: "https://random-finn.netlify.app/",
 	},
+	{
+		id: 28,
+		title: "Git Followers",
+		img: "https://github.com/finn-01/site-img/blob/main/api-fl-git.png?raw=true",
+		url: "https://api-git-fl-finn.netlify.app/",
+	},
 ];
 
 export default site;
