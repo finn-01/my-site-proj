@@ -163,6 +163,12 @@ const site = [
 		img: "https://github.com/finn-01/site-img/blob/main/api-fl-git.png?raw=true",
 		url: "https://api-git-fl-finn.netlify.app/",
 	},
+	{
+		id: 29,
+		title: "Shopping Cart",
+		img: "https://github.com/finn-01/site-img/blob/main/shopping-cart.png?raw=true",
+		url: "https://shopping-cart-finn.netlify.app/",
+	},
 ];
 
 export default site;
