@@ -3,9 +3,9 @@ import accordion from "./images/accordion.png";
 const site = [
 	{
 		id: 1,
-		title: "Accordion",
-		img: "https://raw.githubusercontent.com/finn-01/site-img/main/accordion.png",
-		url: "https://accordion-finn.netlify.app/",
+		title: "Restaurant",
+		img: "https://github.com/finn-01/site-img/blob/main/restaurant-app.png?raw=true",
+		url: "https://restaurant-app-finn.netlify.app/",
 	},
 	{
 		id: 2,
@@ -168,6 +168,12 @@ const site = [
 		title: "Shopping Cart",
 		img: "https://github.com/finn-01/site-img/blob/main/shopping-cart.png?raw=true",
 		url: "https://shopping-cart-finn.netlify.app/",
+	},
+	{
+		id: 30,
+		title: "Accordion",
+		img: "https://raw.githubusercontent.com/finn-01/site-img/main/accordion.png",
+		url: "https://accordion-finn.netlify.app/",
 	},
 ];
 
