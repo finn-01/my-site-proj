@@ -2,6 +2,12 @@ import accordion from "./images/accordion.png";
 
 const site = [
 	{
+		id: 0,
+		title: "Web Shop",
+		img: "https://github.com/saamnguyen/site-img/blob/main/web-app.png?raw=true",
+		url: "https://web-app-2022.netlify.app/",
+	},
+	{
 		id: 1,
 		title: "Restaurant",
 		img: "https://github.com/finn-01/site-img/blob/main/restaurant-app.png?raw=true",
