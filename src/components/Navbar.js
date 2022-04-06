@@ -10,7 +10,7 @@ const Navbar = () => {
 					<li className="nav-item mx-2">
 						<a
 							className="nav-link black"
-							href="https://github.com/finn-01"
+							href="https://github.com/saamnguyen"
 							target="_blank"
 						>
 							<i className="bi bi-github fs-2"></i>
@@ -19,7 +19,7 @@ const Navbar = () => {
 					<li className="nav-item mx-2">
 						<a
 							className="nav-link black"
-							href="https://www.instagram.com/_finn.01/"
+							href="https://www.instagram.com/saam.nguyeen/"
 							target="_blank"
 						>
 							<i className="bi bi-instagram fs-2"></i>
