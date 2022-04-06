@@ -21,7 +21,7 @@ const Header = () => {
 					</a>{" "}
 					or
 					<a
-						href="https://www.instagram.com/_finn.01/"
+						href="https://www.instagram.com/saam.nguyeen/"
 						target="_blank"
 						className="mx-2 text-success text-decoration-none font-italic icon-hover"
 					>
