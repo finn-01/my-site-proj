@@ -16,7 +16,7 @@ const Header = () => {
 				<p className="black">I’m currently learning Java and ReactJS.</p>
 				<p className="black">
 					How to reach me{" "}
-					<a href="mailto:nguyensam576@gmail.com" className="mx-1 icon-hover">
+					<a href="mailto:saamnguyen.dev@gmail.com" className="mx-1 icon-hover">
 						<i className="bi bi-envelope-check text-success icon-hover"></i>
 					</a>{" "}
 					or
